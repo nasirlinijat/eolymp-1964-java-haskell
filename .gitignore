@@ -1,0 +1,6 @@
+*.class
+*.o
+*.hi
+Haskell/main
+Haskell/main.exe
+.DS_Store
